@@ -5,8 +5,10 @@ description: I am setting up this blog to collect my thoughts
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://hitchhiker.ma" # the base hostname & protocol for your site
 
+permalink: none
+
 author:
-  fullname: Pritish
+  fullname: Pritish Patil
   # googleplus: https://www.google.com/+MotaquillahMaddane
   github: iampritishpatil
   twitter: iampritishpatil
