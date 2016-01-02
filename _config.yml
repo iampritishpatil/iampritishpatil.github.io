@@ -10,9 +10,9 @@ author:
   # googleplus: https://www.google.com/+MotaquillahMaddane
   github: iampritishpatil
   twitter: iampritishpatil
-  # disqus: your_disqus_username
+  disqus: pritish_patil
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-71923221-1'
 
 # Build settings
 markdown: kramdown
