@@ -11,8 +11,6 @@ subtitle: List of blog posts
                 <span class="post-teaser__title">{{ post.title }}</span>
 
                 <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
-
-                <span class="post-teaser__read-time">{{ post.content | reading_time }}</span>
             </a>
         </li>
     {% endfor %}
