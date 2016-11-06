@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>saske je cmaci</title>
-    <link>http://www.example.com/</link>
+    <link>http://iampritishpatil.github.io/</link>
     <description>Recent content on saske je cmaci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>iampritishpatil@gmail.com (Pritish Patil)</webMaster>
     <copyright>true</copyright>
     <lastBuildDate>Thu, 15 Sep 2016 16:55:32 +0530</lastBuildDate>
-    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://iampritishpatil.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dynamical Systems in Neuroscience : Chapter 2</title>
-      <link>http://www.example.com/2016/09/15/dynamical-systems-in-neuroscience--chapter-2/</link>
+      <link>http://iampritishpatil.github.io/2016/09/15/dynamical-systems-in-neuroscience--chapter-2/</link>
       <pubDate>Thu, 15 Sep 2016 16:55:32 +0530</pubDate>
       <author>iampritishpatil@gmail.com (Pritish Patil)</author>
-      <guid>http://www.example.com/2016/09/15/dynamical-systems-in-neuroscience--chapter-2/</guid>
+      <guid>http://iampritishpatil.github.io/2016/09/15/dynamical-systems-in-neuroscience--chapter-2/</guid>
       <description>
 
 &lt;h2 id=&#34;intersting-things-in-the-first-reading&#34;&gt;Intersting things in the first reading&lt;/h2&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Dynamical Systems in Neuroscience : Chapter 1</title>
-      <link>http://www.example.com/2016/09/13/dynamical-systems-in-neuroscience--chapter-1/</link>
+      <link>http://iampritishpatil.github.io/2016/09/13/dynamical-systems-in-neuroscience--chapter-1/</link>
       <pubDate>Tue, 13 Sep 2016 12:24:22 +0530</pubDate>
       <author>iampritishpatil@gmail.com (Pritish Patil)</author>
-      <guid>http://www.example.com/2016/09/13/dynamical-systems-in-neuroscience--chapter-1/</guid>
+      <guid>http://iampritishpatil.github.io/2016/09/13/dynamical-systems-in-neuroscience--chapter-1/</guid>
       <description>
 
 &lt;h2 id=&#34;intersting-things-in-the-first-reading&#34;&gt;Intersting things in the first reading&lt;/h2&gt;
@@ -99,10 +99,10 @@ But this did lead me to understand to some extent why definig thresold is hard a
     
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>http://iampritishpatil.github.io/about/</link>
       <pubDate>Mon, 05 Sep 2016 13:37:12 +0530</pubDate>
       <author>iampritishpatil@gmail.com (Pritish Patil)</author>
-      <guid>http://www.example.com/about/</guid>
+      <guid>http://iampritishpatil.github.io/about/</guid>
       <description>&lt;p&gt;My name is Pritish Patil. I am a 4th year undergraduate at Indian Institute of Science, Banglore. I am interested in neuroscience, especially computational neuroscience and I want to do a PhD in it.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;saske je cmaci&amp;rdquo; is &lt;a href=&#34;http://en.wikipedia.org/wiki/Lojban&#34; title=&#34;to the extent I understand lojban&#34;&gt;Lojban&lt;/a&gt; for science and math which are my major obsessions. Other obsessions include comics (like &lt;a href=&#34;http://xkcd.com&#34;&gt;xkcd&lt;/a&gt;), music (like &lt;a href=&#34;http://lmgtfy.com/?q=taylor+swift&#34; title=&#34;Yeah, you really shouldn&#39;t have questions about who she is.&#34;&gt;Taylor Swift&lt;/a&gt;), linux (like, umm &amp;hellip; &lt;a href=&#34;http://en.wikipedia.org/wiki/Linux&#34;&gt;linux&lt;/a&gt;) and reading &amp;hellip; lots of reading.&lt;/p&gt;
@@ -111,10 +111,10 @@ But this did lead me to understand to some extent why definig thresold is hard a
     
     <item>
       <title></title>
-      <link>http://www.example.com/license/</link>
+      <link>http://iampritishpatil.github.io/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>iampritishpatil@gmail.com (Pritish Patil)</author>
-      <guid>http://www.example.com/license/</guid>
+      <guid>http://iampritishpatil.github.io/license/</guid>
       <description>
 
 &lt;h1 id=&#34;you-should-not-have-been-reading-this&#34;&gt;You should not have been reading this!!&lt;/h1&gt;
