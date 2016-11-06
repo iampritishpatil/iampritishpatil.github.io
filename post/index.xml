@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on saske je cmaci</title>
+    <link>http://www.example.com/post/</link>
+    <description>Recent content in Posts on saske je cmaci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>iampritishpatil@gmail.com (Pritish Patil)</managingEditor>
+    <webMaster>iampritishpatil@gmail.com (Pritish Patil)</webMaster>
+    <copyright>true</copyright>
+    <lastBuildDate>Thu, 15 Sep 2016 16:55:32 +0530</lastBuildDate>
+    <atom:link href="http://www.example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynamical Systems in Neuroscience : Chapter 2</title>
+      <link>http://www.example.com/2016/09/15/dynamical-systems-in-neuroscience--chapter-2/</link>
+      <pubDate>Thu, 15 Sep 2016 16:55:32 +0530</pubDate>
+      <author>iampritishpatil@gmail.com (Pritish Patil)</author>
+      <guid>http://www.example.com/2016/09/15/dynamical-systems-in-neuroscience--chapter-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;intersting-things-in-the-first-reading&#34;&gt;Intersting things in the first reading&lt;/h2&gt;
+
+&lt;p&gt;Just a revision, but nerst equation is&lt;/p&gt;
+
+&lt;p&gt;$$ E_{ion} = \frac{RT}{zF} \frac{[Ion]_{out}} { [Ion]_{in}} \approx 0.062 log \frac{[Ion]_{out}} { [Ion]_{in}}  (for \quad z =1) $$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamical Systems in Neuroscience : Chapter 1</title>
+      <link>http://www.example.com/2016/09/13/dynamical-systems-in-neuroscience--chapter-1/</link>
+      <pubDate>Tue, 13 Sep 2016 12:24:22 +0530</pubDate>
+      <author>iampritishpatil@gmail.com (Pritish Patil)</author>
+      <guid>http://www.example.com/2016/09/13/dynamical-systems-in-neuroscience--chapter-1/</guid>
+      <description>
+
+&lt;h2 id=&#34;intersting-things-in-the-first-reading&#34;&gt;Intersting things in the first reading&lt;/h2&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HH Model is not an integrator, but a resonator.&lt;/li&gt;
+&lt;li&gt;The term thresold doesn&amp;rsquo;t make much sense.:
+
+&lt;ul&gt;
+&lt;li&gt;There is no one precise voltage level&lt;/li&gt;
+&lt;li&gt;Rheobase doesn&amp;rsquo;t make much more sense either, because sometimes cells will fire for the same current after much longer. It also can result in change in spike height to a point where it is difficult so say whether something is a spike or not.&lt;/li&gt;
+&lt;li&gt;Also, neurons can fire to inhibitory inputs. (rebound spikes)&lt;/li&gt;
+&lt;li&gt;Neurons show resonance, so certain types of inputs get spikes, but faster or slower inputs don&amp;rsquo;t.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Getting paramters of neurons is hard. And often makes no sense.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dynamical-systems&#34;&gt;Dynamical systems&lt;/h3&gt;
+
+&lt;p&gt;Classify neuronal state variables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;membrane potential ( $V_m$ )&lt;/li&gt;
+&lt;li&gt;excitation variables ( ex. Na activation current)&lt;/li&gt;
+&lt;li&gt;recovery variables (ex. Na inactivation current)&lt;/li&gt;
+&lt;li&gt;adaptation variables (ex .Ca dependent current)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;bifurcations&#34;&gt;Bifurcations&lt;/h4&gt;
+
+&lt;p&gt;There are fundamentally just 4 types of bifurcations (where codimention =1 i.e. only one variable is changed to switch behaviour) (I wonder how I can prove this.)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;saddle-node bifurcation : a node and a saddle combine to disappear. they are outside a nearby limit cycle (or another stable equilibrium, I assume)&lt;/li&gt;
+&lt;li&gt;saddle node on invariant circle bifurcation : the saddle and the node are on the limit cycle like invariant cicle. They combine and then the circle becomes a limit cycle.&lt;/li&gt;
+&lt;li&gt;subcritical andronov-hopf bifurcation : there is an unstable limit cycle between a node and a stable limit cycle. the unstable one shrinks to the node to combine and become an unstable node.&lt;/li&gt;
+&lt;li&gt;supercritical andronov-hopf bifurcation : a stable point blows up into a limit cycle with an unstable point at the centre&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The andronov-hopf bifurcations have 2 stable states coexisting. So, the system can be made to switch between them by a brief input. Also, this system shows hysterisis for appropriate inputs.&lt;/p&gt;
+
+&lt;p&gt;The book does some simple analysis of these at this point, but is very handwaving. I hope it will be covered better in later chapters.
+But this did lead me to understand to some extent why definig thresold is hard and what its true nature is like. (it is not a single voltage, but a line (surface) in the phase space.)&lt;/p&gt;
+
+&lt;h3 id=&#34;about-building-models&#34;&gt;About building models&lt;/h3&gt;
+
+&lt;p&gt;He makes a good point about how to make good models of neurons. He says that it is not enought to get the right currents or even get the correct rheobase and input resistance and firing frequency. What is important is that it has to have the corect neurocomputational features. List:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;co-existance of resting and spiking states&lt;/li&gt;
+&lt;li&gt;spike latencies&lt;/li&gt;
+&lt;li&gt;subthreshold oscillations&lt;/li&gt;
+&lt;li&gt;rebound spikes, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I like this list as I had not considered some of these while working on my project and should try to find relevant data sources for them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I also wonder if I can try to do any of this bufurcation bussiness on PDEs of the detailed morphological models. Will that lead to a better understanding of what needs to be measured to make a good neuronal model?&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
