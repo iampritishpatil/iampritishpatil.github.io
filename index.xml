@@ -8,7 +8,6 @@
     <language>en-EN</language>
     <managingEditor>iampritishpatil@gmail.com (Pritish Patil)</managingEditor>
     <webMaster>iampritishpatil@gmail.com (Pritish Patil)</webMaster>
-    <copyright>true</copyright>
     <lastBuildDate>Thu, 15 Sep 2016 16:55:32 +0530</lastBuildDate>
     <atom:link href="http://iampritishpatil.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -103,7 +102,7 @@ But this did lead me to understand to some extent why definig thresold is hard a
       <pubDate>Mon, 05 Sep 2016 13:37:12 +0530</pubDate>
       <author>iampritishpatil@gmail.com (Pritish Patil)</author>
       <guid>http://iampritishpatil.github.io/about/</guid>
-      <description>&lt;p&gt;My name is Pritish Patil. I am a 4th year undergraduate at Indian Institute of Science, Banglore. I am interested in neuroscience, especially computational neuroscience and I want to do a PhD in it.&lt;/p&gt;
+      <description>&lt;p&gt;My name is Pritish Patil. I am a 1st year Masters student at Weizmann Institute of Science, Israel. I finished my undergraduate at Indian Institute of Science, Banglore. I am interested in neuroscience, especially theoretical and computational neuroscience and eventually I want to do a PhD in it.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;saske je cmaci&amp;rdquo; is &lt;a href=&#34;http://en.wikipedia.org/wiki/Lojban&#34; title=&#34;to the extent I understand lojban&#34;&gt;Lojban&lt;/a&gt; for science and math which are my major obsessions. Other obsessions include comics (like &lt;a href=&#34;http://xkcd.com&#34;&gt;xkcd&lt;/a&gt;), music (like &lt;a href=&#34;http://lmgtfy.com/?q=taylor+swift&#34; title=&#34;Yeah, you really shouldn&#39;t have questions about who she is.&#34;&gt;Taylor Swift&lt;/a&gt;), linux (like, umm &amp;hellip; &lt;a href=&#34;http://en.wikipedia.org/wiki/Linux&#34;&gt;linux&lt;/a&gt;) and reading &amp;hellip; lots of reading.&lt;/p&gt;
 </description>
@@ -119,7 +118,11 @@ But this did lead me to understand to some extent why definig thresold is hard a
 
 &lt;h1 id=&#34;you-should-not-have-been-reading-this&#34;&gt;You should not have been reading this!!&lt;/h1&gt;
 
-&lt;p&gt;If your name is not Pritish Patil, why are you reading this site?&lt;/p&gt;
+&lt;p&gt;The stuff here is written mostly for personal and academic use. Please don&amp;rsquo;t plagiarize and don&amp;rsquo;t try to sell anything from here.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
