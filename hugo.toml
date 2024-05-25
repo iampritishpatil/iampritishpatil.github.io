@@ -1,4 +1,4 @@
-baseurl = "iampritishpatil.github.io"
+baseurl = "https://iampritishpatil.github.io"
 DefaultContentLanguage = "en"
 title = "Pritish Patil"
 theme = "beautifulhugo"
