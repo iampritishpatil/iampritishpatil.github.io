@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pritish Patil</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Pritish Patil</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2024 15:43:14 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Sat, 25 May 2024 15:43:14 +0300</pubDate>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>This is my first post. I&amp;rsquo;m just testing if everything works as expected.&#xA;\[ \begin{aligned} KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\ JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2})) \end{aligned} \] </description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>My name is Pritish Patil.&#xA;my history I am a graduate student with Ofer Yizhar and Misha Tsodyks at the Weizmann Institute of Science. I am interested in understanding how the brain processes information and how it gives rise to behavior. I am particularly interested in the role of subcellular compartments in shaping neuronal computation. I am also interested in the role of neuromodulators in shaping the dynamics of neural circuits.</description>
+    </item>
+  </channel>
+</rss>
