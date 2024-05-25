@@ -1,10 +1,8 @@
 baseurl = "iampritishpatil.github.io"
 DefaultContentLanguage = "en"
 title = "Pritish Patil"
-# Using theme as git submodule 
 theme = "beautifulhugo"
-# Or when using theme as hugo module
-# theme = "github.com/halogenica/beautifulhugo"
+
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -15,9 +13,9 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "A website"
-  mainSections = ["post","posts"]
+  mainSections = ["post"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -28,11 +26,7 @@ pygmentsCodefencesGuessSyntax = true
   wordCount = true
   useHLJS = true
   socialShare = true
-  delayDisqus = true
-  showRelatedPosts = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+  #delayDisqus = true
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -51,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
   name = "Pritish Patil"
   website = "iampritishpatil.github.io"
   #email = "youremail@domain.com"
-  facebook = "username"
+  #facebook = "username"
   github = "iampritishpatil"
   # gitlab = "username"
   # bitbucket = "username"
