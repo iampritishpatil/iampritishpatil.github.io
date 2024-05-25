@@ -13,7 +13,7 @@
       <link>http://localhost:1313/post/my-first-post/</link>
       <pubDate>Sat, 25 May 2024 15:43:14 +0300</pubDate>
       <guid>http://localhost:1313/post/my-first-post/</guid>
-      <description>This is my first post. I&amp;rsquo;m just testing if everything works as expected.&#xA;\[ \begin{aligned} KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\ JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2})) \end{aligned} \] </description>
+      <description>This is my first post. I&amp;rsquo;m just testing if everything works as expected.&#xA;\[\begin{aligned} KL(\hat{y} || y) &amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\ JS(\hat{y} || y) &amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2})) \end{aligned} \] </description>
     </item>
     <item>
       <title>About me</title>
