@@ -1,4 +1,4 @@
-baseurl = "https://iampritishpatil.github.io"
+baseurl = "iampritishpatil.github.io"
 DefaultContentLanguage = "en"
 title = "Pritish Patil"
 # Using theme as git submodule 
